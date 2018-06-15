@@ -15,12 +15,12 @@
 
 ## 书目
 
-* 在线阅读（免费！）：[“入门与进阶”](up&going/README.md#you-dont-know-js-up--going)，已出版：[立即购买](http://shop.oreilly.com/product/0636920039303.do)印刷版，但是ebook格式是免费的！
-* 在线阅读（免费！）：[“作用域与闭包”](scope&closures/README.md#you-dont-know-js-scope--closures)，已出版：[立即购买](http://shop.oreilly.com/product/0636920026327.do)
-* 在线阅读（免费！）：[“this与对象原型”](this&object-prototypes/README.md#you-dont-know-js-this--object-prototypes)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033738.do)
-* 在线阅读（免费！）：[“类型与文法”](types&grammar/README.md#you-dont-know-js-types--grammar)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033745.do)
-* 在线阅读（免费！）：[“异步与性能”](async&performance/README.md#you-dont-know-js-async--performance)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033752.do)
-* 在线阅读（免费！）：[“ES6与未来”](es6&beyond/README.md#you-dont-know-js-es6--beyond)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033769.do)
+* 在线阅读（免费！）：[“入门与进阶”](up-going-readme)，已出版：[立即购买](http://shop.oreilly.com/product/0636920039303.do)印刷版，但是ebook格式是免费的！
+* 在线阅读（免费！）：[“作用域与闭包”](scope-closures-readme)，已出版：[立即购买](http://shop.oreilly.com/product/0636920026327.do)
+* 在线阅读（免费！）：[“this与对象原型”](this-object-prototypes-readme)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033738.do)
+* 在线阅读（免费！）：[“类型与文法”](types-grammar-readme)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033745.do)
+* 在线阅读（免费！）：[“异步与性能”](async-performance-readme)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033752.do)
+* 在线阅读（免费！）：[“ES6与未来”](es6-beyond-readme)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033769.do)
 
 ## 出版
 
@@ -30,7 +30,7 @@
 
 除了购买这些书以外，如果你想要对本作品做出经济上的贡献，我有一个[patreon](https://www.patreon.com/getify)。我将永远感激你的慷慨。
 
-<a href="https://www.patreon.com/getify">[![patreon.png](https://s11.postimg.org/axpzguh77/patreon.png)](https://www.patreon.com/getify)</a>
+[![patreon.png](https://camo.githubusercontent.com/cbb8edd54ebef096231dfdaaaeb383ccc622b10a/68747470733a2f2f7331312e706f7374696d672e6f72672f6178707a67756837372f70617472656f6e2e706e67)](https://www.patreon.com/getify)
 
 ## 对面教学
 

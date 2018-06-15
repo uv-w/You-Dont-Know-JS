@@ -1,6 +1,6 @@
 # 你不懂JS
 
-* [关于](readme.md)
+* [关于](README.md)
 * [前言](preface.md)
 * [如何贡献](CONTRIBUTING.md)
 * [《你不懂JS：入门与进阶》](up&going/README.md)

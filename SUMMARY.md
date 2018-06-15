@@ -1,5 +1,6 @@
 # 你不懂JS
 
+* [关于](readme.md)
 * [前言](preface.md)
 * [如何贡献](CONTRIBUTING.md)
 * [《你不懂JS：入门与进阶》](up&going/README.md)
@@ -10,7 +11,7 @@
   * [附录A：鸣谢 ](up&going/apA.md)
 
 * [《你不懂JS：作用域与闭包》](scope&closures/README.md)
-  * [序](https://shanehudson.net/2014/06/03/foreword-dont-know-js/)（[Shane Hudson](https://github.com/shanehudson)）
+  * [序](scope&closures/foreword.md)（[Shane Hudson](https://github.com/shanehudson)）
   * [第一章：什么是作用域？](scope&closures/ch1.md)
   * [第二章：词法作用域](scope&closures/ch2.md)
   * [第三章：函数与块儿作用域](scope&closures/ch3.md)

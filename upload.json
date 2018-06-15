@@ -1,0 +1,8 @@
+{
+  "src_dir": "/Users/uv-w/WebstormProjects/You-Dont-Know-JS",
+  "bucket": "uv-w",
+  "overwrite": true,
+  "skip_suffixes": ".sketch,.md,.go,.graffle,.gitignore,.yml,.json,.git,.txt",
+  "skip_path_prefixes": ".git,.idea",
+  "key_prefix": "You-Dont-Know-JS/"
+}
